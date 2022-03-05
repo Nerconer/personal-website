@@ -1,0 +1,38 @@
+<li class="project-item">
+  <div class="project-header">
+    <a class="project-logo" href="{{url}}" title="{{name}}" target="_blank" rel="noopener">
+      <img class="project-logo-img" src="{{image-url}}" alt="">
+    </a>
+    <div>
+      <h3 class="project-role">
+        {{role}}
+      </h3>
+      <div>
+        {{name}}
+        <p class="project-date">
+          <time datetime="{{start-year}}">
+            {{start-year}}
+          </time>
+          &nbsp;-&nbsp;
+          <time datetime="{{end-year}}">
+            {{end-year}}
+          </time>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="project-body">
+    <h4 class="list-menu">
+      About the company
+    </h4>
+    <p>
+      {{description}}
+    </p>
+    <h4 class="list-menu">
+      Responsabilities
+    </h4>
+    <p>
+      {{role-description}}
+    </p>
+  </div>
+</li>

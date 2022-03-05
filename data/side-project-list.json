@@ -1,0 +1,58 @@
+[
+  {
+    "name": ".dotfiles",
+    "url": "https://github.com/Nerconer/.dotfiles",
+    "description": "Backup, restore and sync the preferences and settings of a developer toolbox. Aww I love this project since I find it super useful in my day to day.",
+    "image-url": "",
+    "image-description": ""
+  },
+  {
+    "name": "Sorting visualizer",
+    "url": "https://github.com/Nerconer/Sorting-Visualizer",
+    "description": "A cool way to visualize most common sorting algorithms.",
+    "image-url": "side-projects/sorting-visualizer.png",
+    "image-description": ""
+  },
+  {
+    "name": "e-voting System",
+    "url": "https://github.com/Nerconer/auth-votaciones-computerizadas",
+    "description": "Master thesis project. The entire voting authentication process is digitized during a vote and information is collected so that it can be analyzed later.",
+    "image-url": "",
+    "image-description": ""
+  },
+  {
+    "name": "Hackatravel",
+    "url": "https://github.com/Nerconer/HackUPC2016",
+    "description": "Hackatravel is a service that provides information about hackathons events at a European level and also provides you with the prices of flights to the city organizing the event.",
+    "image-url": "",
+    "image-description": ""
+  },
+  {
+    "name": "Maze generator",
+    "url": "https://github.com/Nerconer/maze-generator",
+    "description": "A simple procedural maze generator using p5.js library.",
+    "image-url": "side-projects/maze-generator.png",
+    "image-description": ""
+  },
+  {
+    "name": "Electronic pluviograph",
+    "url": "https://github.com/Nerconer/pluviograph",
+    "description": "Bachelor's thesis focused on the design and construction from scratch of a high-precision electronic pluviograph for the Fabra Observatory, in Barcelona.",
+    "image-url": "side-projects/pluviograph.png",
+    "image-description": ""
+  },
+  {
+    "name": "3D Pacman",
+    "url": "https://github.com/Nerconer/PACMAN3D",
+    "description": "Pacman game made using Unity 5.",
+    "image-url": "side-projects/pacman.png",
+    "image-description": ""
+  },
+  {
+    "name": "R-Type",
+    "url": "https://github.com/Nerconer/R-Type",
+    "description": "Recreation of the mythical game using original assets. Made with C++ and OpenGL.",
+    "image-url": "side-projects/r-type.png",
+    "image-description": ""
+  }
+]

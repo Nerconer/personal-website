@@ -1,0 +1,16 @@
+{
+  "name": "personal-website",
+  "version": "0.0.1",
+  "description": "David Solà's personal Website",
+  "scripts": {
+    "build": "node build",
+    "watch": "cross-env NODE_ENV=development nodemon build --verbose --ext js,html,css,json --ignore dist/ --exec \"yarn build\""
+  },
+  "author": "David Solà",
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "eslint": "^8.10.0",
+    "nodemon": "^2.0.15"
+  }
+}

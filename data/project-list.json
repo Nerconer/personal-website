@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sopra Steria",
+    "image-url": "projects/soprasteria.png",
+    "url": "https://www.soprasteria.com/about-us",
+    "description": "Sopra Steria, European leader in digital transformation, provides one of the most comprehensive portfolios of end to end service offerings in the market: Consulting, Systems Integration, Software Development and Business Process Services.",
+    "start-year": "2017",
+    "end-year": "2022",
+    "role": "Tech Lead, Software Engineer",
+    "role-description": "Since I've been here for a while I've had the opportunity to be in two very different areas with different methodologies and technological stack: <br/>-&nbsp;<b>Chatbots:</b>&nbsp;Development and leading of a machine learning supported Chatbot for an important company, covering most life cycle tasks of the project.<br/>-&nbsp;<b>Banking:</b>&nbsp;Development of international banking web applications using a bank-owned (ABSIS) framework based on Spring."
+  },
+  {
+    "name": "PM Farma",
+    "image-url": "projects/pmfarma.jpg",
+    "url": "https://www.pmfarma.es/",
+    "description": "Ibero-American Pharmaceutical Marketing Portal.",
+    "start-year": "2015",
+    "end-year": "2015",
+    "role": "Web developer",
+    "role-description": "Creation of a new intranet for the employees of the company."
+  }
+]
